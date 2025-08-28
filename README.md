@@ -49,7 +49,5 @@ A **mini-project** on shape detection is also included.
   - Detect and count geometric shapes (circle, square, triangle, etc.)
   - Annotated output with labels
 
----
 
-## 📂 Project Structure
 
