@@ -1,0 +1,6 @@
+# Virtual environments
+env/
+venv/
+opencv_env/
+*.venv/
+ENV/
